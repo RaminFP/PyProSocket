@@ -1,4 +1,3 @@
-# Echo client
 import socket
 
 def Main():

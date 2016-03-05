@@ -1,4 +1,3 @@
-# Echo server
 import socket
 import os
 
